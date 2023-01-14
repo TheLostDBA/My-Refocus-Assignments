@@ -1,11 +1,11 @@
 /*****************************************************
-            M1 Unit 2 Lesson 1 Home Assignment
-                    Git and Git Hub
+            M1 Unit 3 Lesson 2 Home Assignment
+                    Unit Testing
 
-Created by: Dev_Riri         Created Date: 25-NOV-2022
+Created by: Dev_Riri         Created Date: 14-JAN-2023
 *****************************************************/
 
-//Task: Create BMI Calculator
+//Task 1: Test the BMI calculator manually
 //BMI Formula: [weight (kg) / height (cm) / height (cm)] x 10,000
 //Link: https://www.cdc.gov/nccdphp/dnpao/growthcharts/training/bmiage/page5_1.html#:~:text=With%20the%20metric%20system%2C%20the,by%2010%2C000%2C%20can%20be%20used.
 
